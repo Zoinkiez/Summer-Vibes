@@ -1,0 +1,22 @@
+h1 {
+    background: rgb(110, 110, 204);
+    color: white;
+    padding: 5px;
+}
+
+body {
+    background: white;
+}
+
+header {
+    font-size: 150%;
+    font-family: "Lato";
+}
+
+.para2 {
+    font-size: 100%;
+}
+
+button {
+    border-radius: 10px;
+}
